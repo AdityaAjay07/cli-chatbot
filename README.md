@@ -39,5 +39,3 @@ OPENAI_API_KEY=your_api_key_here
 Once everything is set up, run:
 
 python3 chatbot.py
-
-6.
